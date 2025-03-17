@@ -28,7 +28,7 @@
 ## 📬 联系我
 
 - 邮箱: [1789319416@qq.com](1789319416@qq.com)  
-- GitHub: [@dreambybed](https://github.com/dreambybed))  
+- GitHub: [@dreambybed](https://github.com/dreambybed)  
 - 个人主页: [https://dreambybed.github.io/github-pages/]([http://blog.example.com](https://dreambybed.github.io/github-pages/))  
 
 ---
